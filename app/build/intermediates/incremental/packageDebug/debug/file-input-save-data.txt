@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jul 18 00:39:24 SGT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\DroidCafeOptions\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
